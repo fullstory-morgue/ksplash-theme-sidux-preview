@@ -1,0 +1,13 @@
+Source: ksplash-theme-sidux-preview
+Section: kde
+Priority: extra
+Maintainer: Kel Modderman <kel@otaku42.de>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: ksplash-theme-sidux-preview
+Architecture: all
+Depends: ksplash
+Description: ksplash theme for sidux
+ This package includes a sidux ksplash screen, which is seen when
+ a KDE session is launched.
