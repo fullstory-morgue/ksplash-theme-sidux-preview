@@ -1,6 +1,7 @@
-ksplash-theme-sidux-preview (1.1-2) unstable; urgency=low
+ksplash-theme-sidux-preview (1.1.2) unstable; urgency=low
 
   * fix last changeset.
+  * we need to go native, orig.tar.gz is missing.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  8 Feb 2007 01:53:43 +0100
 
