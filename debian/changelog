@@ -1,8 +1,9 @@
 ksplash-theme-sidux-preview (1.1.3) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * add VCS control headers.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu,  8 Feb 2007 01:57:17 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:18:55 +0200
 
 ksplash-theme-sidux-preview (1.1.2) unstable; urgency=low
 
