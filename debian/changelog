@@ -1,8 +1,10 @@
 ksplash-theme-sidux-preview (1.1.5) unstable; urgency=low
 
   * update to debhelper compat 6.
+  * add myself to Uploaders.
+  * fix lintian warning regarding debian/copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 00:26:33 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 00:28:55 +0100
 
 ksplash-theme-sidux-preview (1.1.4) unstable; urgency=low
 
