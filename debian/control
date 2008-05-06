@@ -3,7 +3,7 @@ Section: kde
 Priority: extra
 Maintainer: Kel Modderman <kel@otaku42.de>
 Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
-Build-Depends: cdbs, debhelper (>= 6)
+Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/ksplash-theme-sidux-preview/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/ksplash-theme-sidux-preview/trunk/

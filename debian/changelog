@@ -1,8 +1,9 @@
-ksplash-theme-sidux-preview (1.1.7) UNRELEASED; urgency=low
+ksplash-theme-sidux-preview (1.1.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
+  * clean up packaging.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Feb 2008 23:33:26 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:30:11 +0200
 
 ksplash-theme-sidux-preview (1.1.6) unstable; urgency=low
 

@@ -1,7 +1,4 @@
 #!/usr/bin/make -f
-  
-include /usr/share/cdbs/1/rules/debhelper.mk
 
-install/ksplash-theme-sidux-preview::
-	install -m 0644 *.png Theme.rc \
-		debian/ksplash-theme-sidux-preview/usr/share/apps/ksplash/Themes/sidux-preview/
+%:
+	dh $@
